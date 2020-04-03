@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 가시광통신 에서의 물리계층 보안
 date:   2020-04-02 00:43:22 +0900
 author: Jiyoung
