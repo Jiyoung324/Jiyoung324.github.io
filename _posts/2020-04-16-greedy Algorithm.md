@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 그리디 알고리즘 예제
-date:   2020-04-016 00:43:22 +0900
+date:   2020-04-16 00:43:22 +0900
 author: Jiyoung
 use_math: true
 ---
